@@ -1,0 +1,31 @@
+{
+    "WPFTweaks":  [
+                      "WPFTweaksRestorePoint",
+                      "WPFTweaksRemoveEdge",
+                      "WPFTweaksDebloatAdobe",
+                      "WPFTweaksPowershell7Tele",
+                      "WPFTweaksAH",
+                      "WPFTweaksServices",
+                      "WPFTweaksConsumerFeatures",
+                      "WPFTweaksRemoveCopilot",
+                      "WPFTweaksDisableipsix",
+                      "WPFTweaksEdgeDebloat",
+                      "WPFTweaksBlockAdobeNet",
+                      "WPFTweaksWifi",
+                      "WPFTweaksTele",
+                      "WPFTweaksHiber",
+                      "WPFTweaksRemoveOnedrive",
+                      "WPFTweaksRecallOff",
+                      "WPFTweaksLoc",
+                      "WPFTweaksIPv46"
+                  ],
+    "Install":  [
+
+                ],
+    "WPFInstall":  [
+
+                   ],
+    "WPFFeature":  [
+                       "WPFFeatureDisableSearchSuggestions"
+                   ]
+}

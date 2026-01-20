@@ -1,0 +1,28 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+Enable-RemoteDesktop
+
+choco install chocolatey-core.extension -y
+choco install wget -y
+choco install everything -y
+choco install everythingtoolbar -y
+choco install pulseway -y
+choco install googledrive -y
+choco install googlechrome -y
+choco install brave -y
+choco install adobereader -y
+choco install sumatrapdf -y
+choco install slack -y
+choco install sharex -y
+choco install vlc -y
+choco install spotify -y
+choco install zoom -y
+choco install discord -y
+choco install 7zip -y
+choco install wiztree -y
+choco install qgis-ltr -y
+choco install office365business -y
+
+Install-WindowsUpdate
+
+$wshell = New-Object -ComObject Wscript.Shell
+$wshell.Popup("Dont forget to install Dialpad", 0, "Reminder", 0)
