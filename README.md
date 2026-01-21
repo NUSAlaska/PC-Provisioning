@@ -5,7 +5,7 @@ Find more info about boxstarter here: https://boxstarter.org/weblauncher
 Command to run on new machines from admin powershell:
 
 ```powershell
-START https://boxstarter.org/package/url?https://raw.githubusercontent.com/NUSAlaska/PC-Provisioning/refs/heads/main/NUS-Chocolatey-default?token=GHSAT0AAAAAADNW2GTDZOGBK3OEWA3KR43Q2LQC2TQ
+START https://boxstarter.org/package/url?https://raw.githubusercontent.com/NUSAlaska/PC-Provisioning/refs/heads/main/NUS-Chocolatey-default
 ```
 The link is built to reference the `NUS-Chocolatey-default` file in this repo.
 
