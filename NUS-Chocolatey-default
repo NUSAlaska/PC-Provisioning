@@ -26,3 +26,5 @@ Install-WindowsUpdate
 
 $wshell = New-Object -ComObject Wscript.Shell
 $wshell.Popup("Dont forget to install Dialpad", 0, "Reminder", 0)
+
+# Version 0.1.0 - 2026-01-20
