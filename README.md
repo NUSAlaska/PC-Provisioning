@@ -1,4 +1,14 @@
-Currently using Boxstarter to standardize the windows 11 pro instance on new machines.
+# NUS Compuer Provisioning Details
+
+## Windows 11 Installation Media
+
+Create a USB drive with Windows `Media Creation Tool`. Once installed on the USB drive, copy the `ei.cfg` to the `\Sources` folder on the USB drive to ensure that Windows 11 Pro is installed rather than Windows 11 Home. 
+
+Once installed make sure you make the first account as a "Work Or School" account. 
+
+## Software Installation & Provisioning
+
+Once you finish windows 11 initialization and get to a desktop, we can install all the standard software in an automated fashon using Boxstarter.
 
 Find more info about boxstarter here: https://boxstarter.org/weblauncher
 
